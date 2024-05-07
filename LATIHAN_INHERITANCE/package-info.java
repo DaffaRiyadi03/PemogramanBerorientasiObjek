@@ -1,0 +1,1 @@
+package LATIHAN_INHERITANCE;
